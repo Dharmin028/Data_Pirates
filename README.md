@@ -1,2 +1,2 @@
 # Data_Pirates
-Vowel and constant counter in file
+Vowel and consonant counter in file
